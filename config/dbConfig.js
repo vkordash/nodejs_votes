@@ -1,0 +1,7 @@
+module.exports = {
+      host: '192.168.77.253',
+        port: '5432',
+        user: 'dc_user',
+        password: 'vfhctkm2010',
+        database: 'dc',
+    };
